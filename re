@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python2
+#!/usr/bin/python2
 #coding=utf-8
 
 
@@ -76,20 +76,21 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR AAHIL ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE RAKIB   ~
 \033[1;97m************************************************
-\033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
-\033[1;95m____▐█▌──▄──█████──▄──▐█▌ Stay Safe 💓
-\033[1;95m____─█──███▄▄███▄▄███──█─ 
-\033[1;95m____░█░░█▄█▄█▀▒▀█▄█▄█░░█░ 
-\033[1;95m____██▄▄█▄█▄█▒▒▒█▄█▄█▄▄██ 
+\033[1;95m_____            _  _______ ____  
+\033[1;95m|  __ \     /\   | |/ /_   _|  _ \ 
+\033[1;95m| |__) |   /  \  | ' /  | | | |_) |
+\033[1;95m|  _  /   / /\ \ |  <   | | |  _ < 
+\033[1;95m| | \ \  / ____ \| . \ _| |_| |_) | 
+\033[1;95m|_|  \_\/_/    \_\_|\_\_____|____/
 """
 jalan("\033[1;92m  ")             
 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = " "
+CorrectPassword = " "
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
